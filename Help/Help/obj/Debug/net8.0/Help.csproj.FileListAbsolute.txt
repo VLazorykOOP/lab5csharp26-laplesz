@@ -1,0 +1,14 @@
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\Help.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\Help.AssemblyInfoInputs.cache
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\Help.AssemblyInfo.cs
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\Help.csproj.CoreCompileInputs.cache
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\bin\Debug\net8.0\Help.exe
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\bin\Debug\net8.0\Help.deps.json
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\bin\Debug\net8.0\Help.runtimeconfig.json
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\bin\Debug\net8.0\Help.dll
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\bin\Debug\net8.0\Help.pdb
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\Help.dll
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\refint\Help.dll
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\Help.pdb
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\Help.genruntimeconfig.cache
+D:\University\Ізгої\2 курс\2 семестр 2026\Крос-платформенне програмування\Help\Help\obj\Debug\net8.0\ref\Help.dll
